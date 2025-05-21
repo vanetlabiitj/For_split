@@ -5,6 +5,6 @@ To execute this code files, First, you need four raspberry pi devices, where you
 
 Second, establish serial pipeline connection between them using socket programming.
 
-Third, In code files put the ip address of next raspberrypi in pipeline for transfering the output for next forward-forward pass.
+Third, In code files put the ip address of next raspberry pi in pipeline for transfering the output for next forward-forward pass.
 
-All datasets used is publicly available online.
+All datasets used is publicly available online, download them and put on the first (holding input layer) raspberry pi device. For peer-to-peer learning, swap the layers accordingly wherever data is available. 
