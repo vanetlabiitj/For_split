@@ -1,5 +1,5 @@
 # For_split
-This repopsitory is for our paper titled "For-split: Forward-Optimized Federated Split Learning on Edge Devices". Here we provided our testbed setup code files. Simulation code of other model architectures (resnet, vgg), alongwith comparison between different forward only methods will be made available soon.
+This repopsitory is for our paper titled "For-split: Forward-Optimized Federated Split Learning on Edge Devices". Here we provided our testbed setup code files.
 
 To execute this code files, First, you need four raspberry pi devices, where you can put all this files one on each, and then connect them with a network wi-fi or bluetooth. 
 
